@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAWAViewComponent", "DAWAViewComponent.csproj", "{673D5A71-9647-445F-8FDE-F303F7E7CCA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{673D5A71-9647-445F-8FDE-F303F7E7CCA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673D5A71-9647-445F-8FDE-F303F7E7CCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673D5A71-9647-445F-8FDE-F303F7E7CCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673D5A71-9647-445F-8FDE-F303F7E7CCA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BA38C38-3447-46A4-8866-974CA7E96A64}
+	EndGlobalSection
+EndGlobal
